@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "^14.18.1"
+  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "crypto": "^1.0.1",
