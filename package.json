@@ -1,7 +1,6 @@
 {
   "name": "password-reset",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
@@ -22,5 +21,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulgithub07/Backend-ForgotPassword.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rahulgithub07/Backend-ForgotPassword/issues"
+  },
+  "homepage": "https://github.com/Rahulgithub07/Backend-ForgotPassword#readme",
+  "description": ""
 }
